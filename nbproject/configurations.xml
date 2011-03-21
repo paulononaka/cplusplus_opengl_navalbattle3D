@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="51">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Arquivos de cabeçalho"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Arquivos de código-fonte"
+                   projectFiles="true">
+      <itemPath>canhao.cpp</itemPath>
+      <itemPath>ceumar.cpp</itemPath>
+      <itemPath>constantes.cpp</itemPath>
+      <itemPath>cruzador.cpp</itemPath>
+      <itemPath>destroier.cpp</itemPath> 
+      <itemPath>globais.cpp</itemPath>
+      <itemPath>iluminacao.cpp</itemPath>
+      <itemPath>mina.cpp</itemPath>
+      <itemPath>navio.cpp</itemPath>
+      <itemPath>oponente.cpp</itemPath>
+      <itemPath>portaAviao.cpp</itemPath>
+      <itemPath>principal.cpp</itemPath>
+      <itemPath>submarino.cpp</itemPath>
+      <itemPath>teclado.cpp</itemPath>
+      <itemPath>util.cpp</itemPath>
+      <itemPath>veiculo.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Arquivos de recurso"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Arquivos importantes"
+                   projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+          <commandLine>-lglut</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="canhao.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="ceumar.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="constantes.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="cruzador.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="destroier.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="globais.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="iluminacao.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="mina.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="navio.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="oponente.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="portaAviao.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="principal.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="submarino.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="teclado.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="util.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="veiculo.cpp">
+        <itemTool>1</itemTool>
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <compileType>
+        <cCompilerTool>
+          <developmentMode>5</developmentMode>
+        </cCompilerTool>
+        <ccCompilerTool>
+          <developmentMode>5</developmentMode>
+        </ccCompilerTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="canhao.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="ceumar.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="constantes.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="cruzador.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="destroier.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="globais.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="iluminacao.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="mina.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="navio.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="oponente.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="portaAviao.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="principal.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="submarino.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="teclado.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="util.cpp">
+        <itemTool>1</itemTool>
+      </item>
+      <item path="veiculo.cpp">
+        <itemTool>1</itemTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

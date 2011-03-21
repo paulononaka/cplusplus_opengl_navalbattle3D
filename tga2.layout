@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="arma.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="84" topLine="0" />
+	</File>
+	<File name="canhao.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="2057" topLine="57" />
+	</File>
+	<File name="ceumar.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="465" topLine="1" />
+	</File>
+	<File name="comcanhao.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="310" topLine="0" />
+	</File>
+	<File name="constantes.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="517" topLine="0" />
+	</File>
+	<File name="cruzador.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="616" topLine="9" />
+	</File>
+	<File name="destroier.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="598" topLine="3" />
+	</File>
+	<File name="globais.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="477" topLine="0" />
+	</File>
+	<File name="mina.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="560" topLine="0" />
+	</File>
+	<File name="navio.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="847" topLine="67" />
+	</File>
+	<File name="oponente.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="564" topLine="0" />
+	</File>
+	<File name="portaAviao.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="600" topLine="0" />
+	</File>
+	<File name="portaAvioes.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="principal.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="5218" topLine="151" />
+	</File>
+	<File name="submarino.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1426" topLine="36" />
+	</File>
+	<File name="teclado.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1587" topLine="48" />
+	</File>
+	<File name="tiro.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="util.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="446" topLine="0" />
+	</File>
+	<File name="veiculo.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="782" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

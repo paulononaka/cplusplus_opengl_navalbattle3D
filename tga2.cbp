@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tga2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tga2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tga2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="arma.cpp" />
+		<Unit filename="canhao.cpp" />
+		<Unit filename="canhao.h" />
+		<Unit filename="ceumar.cpp" />
+		<Unit filename="comcanhao.cpp" />
+		<Unit filename="constantes.cpp" />
+		<Unit filename="cruzador.cpp" />
+		<Unit filename="destroier.cpp" />
+		<Unit filename="globais.cpp" />
+		<Unit filename="iluminacao.cpp" />
+		<Unit filename="listaArmas.cpp" />
+		<Unit filename="listaVeiculos.cpp" />
+		<Unit filename="mina.cpp" />
+		<Unit filename="navio.cpp" />
+		<Unit filename="oponente.cpp" />
+		<Unit filename="portaAviao.cpp" />
+		<Unit filename="portaAvioes.cpp" />
+		<Unit filename="principal.cpp" />
+		<Unit filename="submarino.cpp" />
+		<Unit filename="teclado.cpp" />
+		<Unit filename="teclado.h" />
+		<Unit filename="tiro.cpp" />
+		<Unit filename="util.cpp" />
+		<Unit filename="veiculo.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
